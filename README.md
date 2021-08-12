@@ -17,10 +17,10 @@
   <div> 
   <a href = "mailto:erilanesilvalima3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erilane-lima-349912181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img height ="30em"  src="https://komarev.com/ghpvc/?username=erilanelima&color=red" alt="erilanelima"/> 
+  <img height ="28em"  src="https://komarev.com/ghpvc/?username=erilanelima&color=red" alt="erilanelima"/> 
 
   </div>
   
  ##
 
-  ![Snake animation](https://github.com/erilanelima/erilanelima/blob/main/.github/workflows/cobrinha.svg)
+  ![Snake animation](https://github.com/erilanelima/ErilaneLima/blob/output/github-contribution-grid-snake.svg)
