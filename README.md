@@ -23,4 +23,4 @@
   
  ##
 
-  ![Snake animation](https://github.com/erilanelima/ErilaneLima/blob/main/.github/workflows/cobrinha.svg)
+  ![Snake animation](https://github.com/erilanelima/erilanelima/blob/main/.github/workflows/cobrinha.svg)
