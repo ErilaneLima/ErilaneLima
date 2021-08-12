@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Erilane Lima 👩‍💻
 
-<!--
-**ErilaneLima/ErilaneLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Currently working:** helpdesk\
+🎓 **Graduation:** IT Management\
+🌱 **Learning:** JavaScript\
+😄 **Pronouns:** she/her
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/ErilaneLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErilaneLima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+  
+ <div>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/1c7a1ecc7def54c275da3e7e57d5a3e4.gif" width="125" height="125" border="0" alt="https://picasion.com/" />     </a><br /><a href="https://picasion.com/"></a>
+ </div>
