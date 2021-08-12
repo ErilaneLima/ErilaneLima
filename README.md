@@ -8,8 +8,10 @@
 
 <div>
   <a href="https://github.com/erilanelima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erilanelima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/37fc145da102245daeae88958aae7974.gif" width="180" height="180" border="0" alt="https://picasion.com/" />     </a><br />
+  <img height="180em" hspace="20em" src="https://github-readme-stats.vercel.app/api?username=erilanelima&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/37fc145da102245daeae88958aae7974.gif" width="180" height="180" border="5" alt="https://picasion.com/" />     </a>
+   <img hspace="20em" src="https://c.tenor.com/XKaBt25ajDMAAAAC/feliz-muy-feliz.gif" width="220" height="180" alt="Feliz Muy Feliz Alegre Alegria Felicidad GIF - Feliz Muy Feliz Alegre GIFs" style="max-width: 690px;">
+    
  </div>
  
  ##
